@@ -1,6 +1,6 @@
 # Playing with Terramate
 
-<img style="float: right;"  width="100" height="100" src="https://raw.githubusercontent.com/mineiros-io/brand/master/terramate-logo.svg" alt="Terramate">
+<img align="right"  width="100" height="100" src="https://raw.githubusercontent.com/mineiros-io/brand/master/terramate-logo.svg" alt="Terramate">
 
 The idea behind this project it to test the functionality of a the tool [Terramate](https://github.com/mineiros-io/terramate).
 
