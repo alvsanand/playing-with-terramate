@@ -1,8 +1,10 @@
 # Playing with Terramate
 
-<img align="right"  width="100" height="100" src="https://raw.githubusercontent.com/mineiros-io/brand/master/terramate-logo.svg" alt="Terramate">
+<img align="right"  width="70" height="70" src="https://raw.githubusercontent.com/mineiros-io/brand/master/terramate-logo.svg" alt="Terramate">
 
-The idea behind this project it to test the functionality of a the tool [Terramate](https://github.com/mineiros-io/terramate).
+[Terramate](https://github.com/mineiros-io/terramate) provides ways to keep your Terraform code DRY and allows to define relationships between stacks and supports you to orchestrate Terraform commands in those stacks with minimal effort to get started in a non-intrusive way.
+
+The idea behind this repository is to test the functionality of Terramate and learn how to use it.
 
 ## Prerequisites
 
