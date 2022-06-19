@@ -20,6 +20,12 @@ The idea behind this project it to test the functionality of a the tool [Terrama
 
 ## Execute current version of the stacks
 
+- Check stacks.
+
+    ```bash
+    terramate list
+    ```
+
 - Init stacks:
 
     ```bash
@@ -40,7 +46,7 @@ The idea behind this project it to test the functionality of a the tool [Terrama
 
 ## Adding some changes
 
-- Add some changes to the stacks.
+- Add some changes.
 
 - Re-generate TF code:
 
@@ -49,6 +55,12 @@ The idea behind this project it to test the functionality of a the tool [Terrama
     ```
 
 - Commit changes.
+
+- Check for new stacks.
+
+    ```bash
+    terramate list
+    ```
 
 - Generate plan for every stack:
 
