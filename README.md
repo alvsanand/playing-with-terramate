@@ -17,7 +17,7 @@ The idea behind this repository is to test the functionality of Terramate and le
 - Start localstack in default port (4566):
 
     ```bash
-    localstack start -d > /var/log/localstack.log 2>& &
+    localstack start -d > /tmp/localstack.log 2>&1 &
     ```
 
 ## Execute current version of the stacks
